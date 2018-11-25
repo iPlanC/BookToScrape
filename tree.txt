@@ -1,0 +1,29 @@
+卷 本地磁盘 的文件夹 PATH 列表
+卷序列号为 09C1-B27D
+D:\PROJECT\GITHUB\BOOKTOSCRAPE
+│  .gitattributes
+│  books.csv
+│  LICENSE
+│  README.md
+│  scrapy.cfg
+│  tree.txt
+│  
+└─BookToScrape
+    │  items.py
+    │  middlewares.py
+    │  pipelines.py
+    │  settings.py
+    │  __init__.py
+    │  
+    ├─spiders
+    │  │  book.py
+    │  │  __init__.py
+    │  │  
+    │  └─__pycache__
+    │          book.cpython-37.pyc
+    │          __init__.cpython-37.pyc
+    │          
+    └─__pycache__
+            settings.cpython-37.pyc
+            __init__.cpython-37.pyc
+            
